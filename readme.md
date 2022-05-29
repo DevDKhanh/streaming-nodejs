@@ -1,3 +1,5 @@
+# Link: [Original post](https://quantizd.com/building-live-streaming-app-with-node-js-and-react/).
+
 ### NodeStream
 
 See complete tutorial [here](https://quantizd.com/building-live-streaming-app-with-node-js-and-react/).
@@ -16,6 +18,9 @@ $ ffmpeg --version
 
 # You can download Windows builds from ffmpeg site.
 ```
+
+### Install ffmpeg Centos 7: see tutorial [hree](https://linuxize.com/post/how-to-install-ffmpeg-on-centos-7/).
+run `which ffmpeg` get path ffmpeg.
 
 ### Prerequisites
  
